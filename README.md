@@ -1,124 +1,125 @@
 <div align="center">
 
-# 🐱 hub
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%2F%2F+hub;things+I've+shipped+%F0%9F%9A%80;click+around+%E2%9C%A8" alt="typing header" />
 
-**A tiny, pretty links page for all my deployed projects.**
+### a curated list of my deployed projects, side quests & experiments
 
-Dark mode. Glassmorphic cards. Animated aurora. Zero build step.
+![Maintained](https://img.shields.io/badge/maintained-yes-a78bfa?style=for-the-badge)
+![Deployed on](https://img.shields.io/badge/deployed_on-Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vibes](https://img.shields.io/badge/vibes-immaculate-f472b6?style=for-the-badge)
 
-[![Live](https://img.shields.io/badge/live-✨_view_site-a78bfa?style=for-the-badge)](https://your-hub.vercel.app)
-[![Vercel](https://img.shields.io/badge/deploy-Vercel-000?style=for-the-badge&logo=vercel)](https://vercel.com/new)
-[![License](https://img.shields.io/badge/license-MIT-f472b6?style=for-the-badge)](#license)
+<sub>⚡ last updated · <a href="#license">MIT</a> · meow 🐱</sub>
 
 </div>
 
 ---
 
-## ✨ what is this
+## 🌟 featured
 
-A single-page, static links hub to show off projects I've shipped. Think Linktree, but for devs — with filter chips, search, status badges, and a terminal-style header that makes me smile.
+> the ones I'm proud of this month
 
-No frameworks. No bundlers. No npm. Just `index.html`, `styles.css`, `script.js`. Edit one array, push, done.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎨 design
+### ✨ [Project One](https://project-one.vercel.app)
 
-- **aurora backdrop** — three soft orbs drifting behind a subtle grid
-- **glassmorphic cards** with gradient hover borders
-- **terminal hero** with a blinking caret — because we're developers
-- **filter + search** — tag chips and fuzzy text matching
-- **status badges** — `live` / `wip` / `paused`
-- **fully responsive** down to 320px
-- **reduced-motion friendly** — respects `prefers-reduced-motion`
-- **~20 KB total**, no external JS, only one Google Font
+> A short, punchy description of what this does and why it matters.
 
-Color system built around violet (`#a78bfa`) → pink (`#f472b6`) → cyan (`#22d3ee`) on a deep indigo base (`#0b0616`).
+`nextjs` `ai` `web`
 
-## 🚀 getting started
+[🔗 live](https://project-one.vercel.app) · [💻 code](https://github.com/your-username/project-one)
 
-```bash
-# 1. clone it
-git clone https://github.com/your-username/hub.git
-cd hub
+</td>
+<td width="50%" valign="top">
 
-# 2. open it — no build required
-open index.html        # macOS
-start index.html       # Windows
-xdg-open index.html    # Linux
-```
+### 🚀 [Project Two](https://project-two.vercel.app)
 
-That's it. Seriously. It's plain HTML.
+> One sentence about what you built. Keep it tight.
 
-## ✏️ adding a project
+`react` `vercel`
 
-Open `script.js` and add an entry to the `projects` array:
+[🔗 live](https://project-two.vercel.app) · [💻 code](https://github.com/your-username/project-two)
 
-```js
-{
-  name: "My Cool Thing",
-  description: "One sentence about what it does.",
-  url: "https://my-cool-thing.vercel.app",
-  repo: "https://github.com/me/my-cool-thing",
-  icon: "🚀",                       // any emoji
-  tags: ["nextjs", "ai"],           // free-form
-  status: "live",                   // "live" | "wip" | "paused"
-}
-```
-
-Save, refresh. Tag chips rebuild themselves automatically.
-
-## 🌍 deploying
-
-### Vercel (recommended)
-
-```bash
-# push to GitHub, then
-npm i -g vercel
-vercel
-```
-
-No config needed — Vercel detects static sites automatically. Every push to `main` ships to production, every PR gets a preview URL.
-
-### GitHub Pages
-
-1. Push to GitHub.
-2. Settings → Pages → Source: `main` / `root`.
-3. Done. Lives at `https://<user>.github.io/hub`.
-
-### Anywhere else
-
-It's static HTML — drop it on Netlify, Cloudflare Pages, S3, a USB stick, whatever.
-
-## 🧩 file structure
-
-```
-hub/
-├── index.html      # markup + hero
-├── styles.css      # all the pretty
-├── script.js       # project data + filtering
-├── README.md       # you are here
-└── vercel.json     # optional Vercel config
-```
-
-## 🎛️ customizing
-
-| want to change | edit |
-| --- | --- |
-| project list | `script.js` → `projects` array |
-| colors / theme | `styles.css` → `:root` variables |
-| hero text | `index.html` → `.title`, `.subtitle` |
-| terminal lines | `index.html` → `.terminal__body` |
-| socials | `index.html` → `.socials` block |
-
-## 🐾 easter eggs
-
-- Click the cat in the title.
-
-## 📄 license
-
-MIT — do whatever you want. A link back is appreciated but not required.
+</td>
+</tr>
+</table>
 
 ---
 
+## 🧭 all projects
+
+| | project | what it is | stack | status |
+|---|---|---|---|:---:|
+| ✨ | **[Project One](https://project-one.vercel.app)** · [src](https://github.com/your-username/project-one) | Short description of what this project does. | `nextjs` `ai` | 🟢 live |
+| 🚀 | **[Project Two](https://project-two.vercel.app)** · [src](https://github.com/your-username/project-two) | Another thing I've built that works. | `react` `vercel` | 🟢 live |
+| 🧪 | **[Lab Experiment](https://lab.vercel.app)** · [src](https://github.com/your-username/lab) | Weekend experiment — might break, definitely fun. | `experiment` | 🟡 wip |
+| 🛠️ | **[Mini Tool](https://mini-tool.vercel.app)** · [src](https://github.com/your-username/mini-tool) | A tiny utility that solves one problem well. | `tool` | 🟢 live |
+| 📦 | **[Archived Project](https://archived.vercel.app)** · [src](https://github.com/your-username/archived) | Sunsetted, but still up for history. | `archive` | 🔴 paused |
+
+<sub>🟢 live · 🟡 work in progress · 🔴 paused/archived</sub>
+
+---
+
+## 🧪 experiments & playground
+
+<details>
+<summary><b>click to expand smaller things</b></summary>
+
+<br>
+
+- 🎨 **[CSS Playground](https://css-play.vercel.app)** — random CSS doodles and tricks
+- 🎮 **[Mini Game](https://mini-game.vercel.app)** — a tiny browser game I made in one sitting
+- 🎧 **[Audio Thing](https://audio.vercel.app)** — web audio API experiment
+- 📊 **[Dataviz](https://viz.vercel.app)** — d3 chart sandbox
+
+</details>
+
+---
+
+## 🛠️ usual stack
+
 <div align="center">
-<sub>built with too much coffee and a suspicious amount of gradient. meow.</sub>
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Node](https://img.shields.io/badge/Node-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
+## 📫 find me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssbenjasilvaguerrero@gmail.com)
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/dashboard)
+
+</div>
+
+---
+
+## 🐾 adding a new project
+
+1. copy a row from the **all projects** table above
+2. paste it, swap the name / url / stack / status
+3. commit & push — that's it
+
+> tip: promote it to **featured** when you're especially proud of it.
+
+---
+
+## 📄 license
+
+MIT — this is just a list. Copy the format if you like it.
+
+<div align="center">
+
+<sub>built with <kbd>markdown</kbd> and too much coffee · meow 🐱</sub>
+
 </div>
