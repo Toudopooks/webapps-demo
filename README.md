@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=%2F%2F+hub;things+I've+shipped+%F0%9F%9A%80;click+around+%E2%9C%A8" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=99999999&color=86EFAC&center=true&vCenter=true&width=800&height=60&lines=prototipos+de+paginas+web&repeat=false" alt="prototipos de paginas web" />
 
 ### a curated list of my deployed projects, side quests & experiments
 
