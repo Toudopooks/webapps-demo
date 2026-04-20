@@ -4,8 +4,8 @@
 
 ### una colección de prototipos y experimentos web que he ido armando
 
-![Talento](https://img.shields.io/badge/talento-no-a78bfa?style=for-the-badge)
-![Fé](https://img.shields.io/badge/fé-sí-f472b6?style=for-the-badge)
+![Talento](https://img.shields.io/badge/talento-no-white?style=for-the-badge)
+![Fé](https://img.shields.io/badge/fé-sí-black?style=for-the-badge)
 
 </div>
 
@@ -46,10 +46,6 @@
 </div>
 
 ---
-
-## 📄 licencia
-
-MIT — es solo una lista. Copia el formato si te gusta.
 
 <div align="center">
 
