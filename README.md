@@ -4,8 +4,8 @@
 
 ### una colección de prototipos y experimentos web que he ido armando
 
-![Talento](https://img.shields.io/badge/talento-no-000000?style=for-the-badge&labelColor=000000)
-![Fé](https://img.shields.io/badge/fé-sí-FFFFFF?style=for-the-badge&labelColor=FFFFFF)
+![Talento](https://img.shields.io/badge/talento-no-F2F5F3?style=for-the-badge&labelColor=000000)
+![Fé](https://img.shields.io/badge/fé-sí-F2F5F3?style=for-the-badge&labelColor=FFFFFF)
 
 </div>
 
