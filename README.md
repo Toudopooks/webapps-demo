@@ -4,10 +4,8 @@
 
 ### una colección de prototipos y experimentos web que he ido armando
 
-![Mantenido](https://img.shields.io/badge/mantenido-sí-a78bfa?style=for-the-badge)
-![Vibra](https://img.shields.io/badge/vibra-inmaculada-f472b6?style=for-the-badge)
-
-<sub>⚡ última actualización · <a href="#licencia">MIT</a> · miau 🐱</sub>
+![Talento](https://img.shields.io/badge/talento-no-a78bfa?style=for-the-badge)
+![Fé](https://img.shields.io/badge/fé-sí-f472b6?style=for-the-badge)
 
 </div>
 
@@ -17,14 +15,10 @@
 
 > prototipos, cositas pequeñas y experimentos sueltos
 
-- ✨ **[Prototipo Uno](https://github.com/Toudopooks/)** — descripción corta y directa de qué hace.  `nextjs` `web`
-- 🚀 **[Prototipo Dos](https://github.com/Toudopooks/)** — otra cosita que armé, en una frase.  `react`
-- 🧪 **[Experimento Raro](https://github.com/Toudopooks/)** — experimento de fin de semana, puede romperse.  `experimento`
-- 🛠️ **[Mini Herramienta](https://github.com/Toudopooks/)** — utilidad chiquita que resuelve un solo problema bien.  `tool`
-- 🎨 **[Playground CSS](https://github.com/Toudopooks/)** — doodles de CSS y trucos random.  `css`
-- 🎮 **[Mini Juego](https://github.com/Toudopooks/)** — juego tonto hecho en una tarde.  `game`
-
-<sub>reemplaza los links con los tuyos cuando estén listos.</sub>
+- ☕ **[Raven Café](https://ravencafe.vercel.app)** — diseño de web para un conocido café en Port Huron, Michigan (US).
+- 🪑 **[Diseñería Muebles](https://dise-eria-muebles.vercel.app)** — web inspirada en un negocio local que diseña y construye muebles a medida; el diseño refleja la esencia del negocio.
+- 🍞 **[Emporio Lantanio](https://emporiolantanio.vercel.app)** — diseño de web para una distribuidora de pan que nunca respondió.
+- 🚗 **[Car Detailing Business](https://car-detailing-business.vercel.app)** — diseño de web para un negocio local de detallado de autos, hecho solo para testear los límites de la IA.
 
 ---
 
